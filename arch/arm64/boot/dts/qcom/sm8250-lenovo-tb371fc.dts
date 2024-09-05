@@ -31,7 +31,7 @@
 
 / {
 	model = "Lenovo Xiaoxin Pad Pro 12.6";
-	compatible = "lenovo,tb371fc",  "qcom,sm8250", ;
+	compatible = "lenovo,tb371fc",  "qcom,sm8250", "qcom,kona";
 	classis-type = "tablet";
 	
 	qcom,msm-id = <QCOM_ID_SM8250 0x20001>;
